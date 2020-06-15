@@ -1,0 +1,1090 @@
+2020-06-13 15:00:07,886 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-13 15:00:10,963 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-13 15:00:10,963 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-13 15:00:10,976 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-13 15:00:10,977 - *************Employee Rest API************ -INFO -  The Response Time ==>1983
+2020-06-13 15:00:10,978 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-13 15:00:10,980 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-13 15:00:11,007 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-13 15:00:11,007 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-13 15:00:11,009 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-13 15:00:11,011 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-13 15:00:11,015 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-13 15:00:11,015 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-13 15:00:11,019 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-13 15:00:11,020 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-13 15:00:11,022 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-13 15:02:04,330 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-13 15:02:07,701 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-13 15:02:07,701 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-13 15:02:07,714 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-13 15:02:07,714 - *************Employee Rest API************ -INFO -  The Response Time ==>2303
+2020-06-13 15:02:07,715 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-13 15:02:07,752 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-13 15:02:07,778 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-13 15:02:07,782 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-13 15:02:07,787 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-13 15:02:07,788 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-13 15:02:07,791 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-13 15:02:07,792 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-13 15:02:07,796 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-13 15:02:07,796 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-13 15:02:07,799 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-13 15:57:42,625 - *************Employee Rest API************ -INFO - ****************** The Request Body *************************
+2020-06-13 15:58:42,596 - *************Employee Rest API************ -INFO - ****************** The Request Body *************************
+2020-06-13 16:00:04,359 - *************Employee Rest API************ -INFO - ****************** The Request Body *************************
+2020-06-14 13:53:52,029 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-14 13:53:58,083 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-14 13:53:58,090 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-14 13:53:58,090 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 13:53:58,094 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-14 13:53:58,095 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-14 13:53:58,097 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-14 13:53:58,098 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 13:53:58,100 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-14 13:53:58,101 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 13:53:58,104 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-14 13:53:58,113 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-14 13:53:58,115 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-14 14:00:05,104 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-14 14:00:11,204 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-14 14:00:11,213 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-14 14:00:11,214 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:00:11,217 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-14 14:00:11,217 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-14 14:00:11,220 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-14 14:00:11,221 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:00:11,224 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-14 14:00:11,224 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:00:11,226 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-14 14:00:11,234 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-14 14:00:11,236 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-14 14:03:15,794 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-14 14:03:21,734 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-14 14:03:21,737 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-14 14:03:21,742 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-14 14:03:21,747 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-14 14:03:21,747 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-14 14:03:21,751 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-14 14:03:21,752 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-14 14:03:21,756 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-14 14:03:21,757 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-14 14:03:21,760 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-14 14:03:21,770 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-14 14:03:21,773 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-14 14:07:32,523 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-14 14:07:38,983 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-14 14:07:38,986 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-14 14:07:38,991 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-14 14:07:38,994 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-14 14:07:38,995 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-14 14:07:38,997 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-14 14:07:38,998 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-14 14:07:39,001 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-14 14:07:39,002 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-14 14:07:39,004 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-14 14:07:39,015 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-14 14:07:39,018 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-14 14:09:10,155 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:09:12,881 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-14 14:09:12,881 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-14 14:09:12,890 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-14 14:09:12,890 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-14 14:09:12,891 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-14 14:09:12,897 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-14 14:09:12,897 - *************Employee Rest API************ -INFO -  The Response Time ==>1569
+2020-06-14 14:09:12,898 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-14 14:09:12,900 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-14 14:09:12,921 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-14 14:09:12,925 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-14 14:09:12,926 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-14 14:09:12,929 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-14 14:09:12,929 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:09:12,932 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-14 14:09:12,933 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:09:12,936 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-14 14:09:12,937 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:09:12,939 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:09:52,496 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-14 14:09:59,024 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-14 14:09:59,026 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-14 14:09:59,032 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-14 14:09:59,038 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-14 14:09:59,038 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-14 14:09:59,040 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-14 14:09:59,041 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-14 14:09:59,045 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-14 14:09:59,046 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-14 14:09:59,048 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-14 14:09:59,060 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-14 14:09:59,062 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-14 14:23:01,468 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-14 14:23:16,262 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-14 14:23:16,265 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-14 14:23:16,270 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-14 14:23:16,276 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-14 14:23:16,276 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-14 14:23:16,280 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-14 14:23:16,280 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-14 14:23:16,284 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-14 14:23:16,285 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-14 14:23:16,288 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-14 14:23:16,298 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-14 14:23:16,300 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-14 14:23:47,662 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-14 14:24:00,003 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-14 14:24:00,006 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-14 14:24:00,014 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-14 14:24:00,020 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-14 14:24:00,020 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-14 14:24:00,022 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-14 14:24:00,023 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-14 14:24:00,029 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-14 14:24:00,029 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-14 14:24:00,033 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-14 14:24:00,045 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-14 14:24:00,049 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-14 14:37:35,271 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:37:39,855 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-14 14:37:39,855 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-14 14:37:39,861 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-14 14:37:39,861 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-14 14:37:39,861 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-14 14:37:39,866 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-14 14:37:39,866 - *************Employee Rest API************ -INFO -  The Response Time ==>1912
+2020-06-14 14:37:39,867 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-14 14:37:39,869 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-14 14:37:39,874 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-14 14:37:39,874 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-14 14:37:39,876 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-14 14:37:39,877 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:37:39,880 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-14 14:37:39,880 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:37:39,884 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-14 14:37:39,884 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:37:39,886 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:40:06,614 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:40:11,374 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-14 14:40:11,374 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-14 14:40:11,380 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-14 14:40:11,381 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-14 14:40:11,381 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-14 14:40:11,386 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-14 14:40:11,386 - *************Employee Rest API************ -INFO -  The Response Time ==>2152
+2020-06-14 14:40:11,386 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-14 14:40:11,390 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-14 14:40:11,392 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-14 14:40:11,393 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-14 14:40:11,394 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-14 14:40:11,394 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:40:11,396 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-14 14:40:11,396 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:40:11,399 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-14 14:40:11,399 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:40:11,400 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:41:17,009 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:41:23,931 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-14 14:41:23,932 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-14 14:41:23,937 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-14 14:41:23,938 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-14 14:41:23,938 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-14 14:41:23,942 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-14 14:41:23,942 - *************Employee Rest API************ -INFO -  The Response Time ==>4259
+2020-06-14 14:41:23,942 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-14 14:41:23,946 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-14 14:41:23,950 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-14 14:41:23,950 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-14 14:41:23,953 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-14 14:41:23,953 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:41:23,956 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-14 14:41:23,957 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:41:23,960 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-14 14:41:23,961 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:41:23,963 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:42:47,371 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:42:52,531 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-14 14:42:52,532 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-14 14:42:52,538 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-14 14:42:52,538 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-14 14:42:52,539 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-14 14:42:52,544 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-14 14:42:52,545 - *************Employee Rest API************ -INFO -  The Response Time ==>2268
+2020-06-14 14:42:52,545 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-14 14:42:52,550 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-14 14:42:52,554 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-14 14:42:52,554 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-14 14:42:52,557 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-14 14:42:52,557 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:42:52,559 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-14 14:42:52,560 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:42:52,562 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-14 14:42:52,563 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:42:52,564 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:43:24,199 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:44:37,023 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:44:42,244 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-14 14:44:42,244 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-14 14:44:42,252 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-14 14:44:42,253 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-14 14:44:42,253 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-14 14:44:42,258 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-14 14:44:42,259 - *************Employee Rest API************ -INFO -  The Response Time ==>2508
+2020-06-14 14:44:42,259 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-14 14:44:42,263 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-14 14:44:42,266 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-14 14:44:42,266 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-14 14:44:42,269 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-14 14:44:42,269 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:44:42,271 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-14 14:44:42,272 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:44:42,275 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-14 14:44:42,276 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:44:42,278 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:45:17,828 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:45:22,856 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-14 14:45:22,857 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-14 14:45:22,863 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-14 14:45:22,863 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-14 14:45:22,864 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-14 14:45:22,868 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-14 14:45:22,868 - *************Employee Rest API************ -INFO -  The Response Time ==>2237
+2020-06-14 14:45:22,869 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-14 14:45:22,871 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-14 14:45:22,876 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-14 14:45:22,876 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-14 14:45:22,879 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-14 14:45:22,879 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:45:22,881 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-14 14:45:22,882 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:45:22,885 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-14 14:45:22,886 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:45:22,888 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:46:23,362 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-14 14:46:27,804 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-14 14:46:27,804 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-14 14:46:27,810 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-14 14:46:27,810 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-14 14:46:27,810 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-14 14:46:27,816 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-14 14:46:27,817 - *************Employee Rest API************ -INFO -  The Response Time ==>1788
+2020-06-14 14:46:27,817 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-14 14:46:27,819 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-14 14:46:27,822 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-14 14:46:27,823 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-14 14:46:27,824 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-14 14:46:27,825 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-14 14:46:27,826 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-14 14:46:27,826 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-14 14:46:27,829 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-14 14:46:27,829 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-14 14:46:27,830 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 09:34:23,292 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 09:34:25,916 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 09:34:25,917 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 09:34:25,924 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 09:34:25,924 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 09:34:25,925 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 09:34:25,930 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 09:34:25,931 - *************Employee Rest API************ -INFO -  The Response Time ==>1297
+2020-06-15 09:34:25,931 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 09:34:25,933 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 09:34:25,950 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 09:34:25,954 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 09:34:25,954 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 09:34:25,956 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 09:34:25,957 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 09:34:25,959 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 09:34:25,961 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 09:34:25,963 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 09:34:25,964 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 09:34:25,965 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 09:34:25,995 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 09:34:26,988 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 09:34:26,989 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 09:34:26,992 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 09:34:26,993 - *************Employee Rest API************ -INFO -  The Response Time ==>986
+2020-06-15 09:34:26,993 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 09:34:26,994 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 09:34:27,019 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 09:34:27,019 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 09:34:27,022 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 09:34:27,022 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 09:34:27,025 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 09:34:27,026 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 09:34:27,028 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 09:34:27,028 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 09:34:27,029 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 09:34:27,035 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 09:34:31,337 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 09:34:31,339 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 09:34:31,340 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 09:34:31,342 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 09:34:31,343 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 09:34:31,345 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 09:34:31,345 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 09:34:31,347 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 09:34:31,347 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 09:34:31,349 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 09:34:31,349 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 09:34:31,350 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 09:34:31,353 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 09:34:41,415 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 09:34:41,415 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 09:34:41,425 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 09:34:41,427 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 09:34:41,428 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 09:34:41,429 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 09:34:41,430 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 09:34:41,432 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 09:34:41,433 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 09:34:41,434 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 09:34:41,436 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 09:34:41,439 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 09:34:41,443 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 09:34:43,722 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 09:34:43,723 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 09:34:43,724 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 09:34:43,725 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 09:34:43,725 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 09:34:43,728 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 09:34:43,729 - *************Employee Rest API************ -INFO -  The Response Time ==>468
+2020-06-15 09:34:43,729 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 09:34:43,731 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 09:34:43,733 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 09:34:43,734 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 09:34:43,736 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 09:34:43,736 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 09:34:43,737 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 09:34:43,738 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 09:34:43,739 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 09:34:43,740 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 09:34:43,741 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 10:46:52,427 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 10:46:54,996 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 10:46:54,997 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 10:46:55,002 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 10:46:55,003 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 10:46:55,003 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 10:46:55,007 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 10:46:55,009 - *************Employee Rest API************ -INFO -  The Response Time ==>1377
+2020-06-15 10:46:55,010 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 10:46:55,011 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 10:46:55,030 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 10:46:55,033 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 10:46:55,034 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 10:46:55,034 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 10:46:55,035 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 10:46:55,036 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 10:46:55,037 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 10:46:55,038 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 10:46:55,039 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 10:46:55,041 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 10:46:55,046 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 10:46:56,081 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 10:46:56,082 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 10:46:56,084 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 10:46:56,084 - *************Employee Rest API************ -INFO -  The Response Time ==>1029
+2020-06-15 10:46:56,085 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 10:46:56,086 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 10:46:56,094 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 10:46:56,095 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 10:46:56,096 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 10:46:56,097 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 10:46:56,098 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 10:46:56,099 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 10:46:56,101 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 10:46:56,101 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 10:46:56,102 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 10:46:56,106 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 10:47:00,445 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 10:47:00,449 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 10:47:00,451 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 10:47:00,453 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 10:47:00,456 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 10:47:00,461 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 10:47:00,464 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 10:47:00,466 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 10:47:00,467 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 10:47:00,469 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 10:47:00,470 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 10:47:00,472 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 10:47:00,478 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 10:47:11,898 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 10:47:11,900 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 10:47:11,903 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 10:47:11,908 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 10:47:11,910 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 10:47:11,913 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 10:47:11,916 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 10:47:11,920 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 10:47:11,923 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 10:47:11,925 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 10:47:11,930 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 10:47:11,931 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 10:47:11,936 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 10:47:14,008 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 10:47:14,009 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 10:47:14,010 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 10:47:14,012 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 10:47:14,012 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 10:47:14,015 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 10:47:14,016 - *************Employee Rest API************ -INFO -  The Response Time ==>452
+2020-06-15 10:47:14,016 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 10:47:14,017 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 10:47:14,019 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 10:47:14,020 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 10:47:14,021 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 10:47:14,022 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 10:47:14,023 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 10:47:14,023 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 10:47:14,024 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 10:47:14,025 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 10:47:14,025 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:26:08,687 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:26:11,660 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 14:26:11,661 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 14:26:11,667 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:26:11,668 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 14:26:11,668 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 14:26:11,670 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:26:11,670 - *************Employee Rest API************ -INFO -  The Response Time ==>1862
+2020-06-15 14:26:11,670 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 14:26:11,671 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:26:11,739 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 14:26:11,798 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:26:11,798 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:26:11,799 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:26:11,799 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:26:11,799 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:26:11,800 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:26:11,801 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:26:11,802 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:26:11,803 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:26:11,807 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 14:26:12,828 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:26:12,828 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 14:26:12,830 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:26:12,830 - *************Employee Rest API************ -INFO -  The Response Time ==>1015
+2020-06-15 14:26:12,830 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 14:26:12,831 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:26:12,841 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:26:12,842 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:26:12,842 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:26:12,843 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 14:26:12,844 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:26:12,844 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 14:26:12,845 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:26:12,845 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:26:12,845 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 14:26:12,849 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 14:26:16,931 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 14:26:16,932 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 14:26:16,933 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:26:16,934 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 14:26:16,934 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 14:26:16,935 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 14:26:16,935 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:26:16,936 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 14:26:16,936 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:26:16,937 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 14:26:16,937 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 14:26:16,938 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 14:26:16,940 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 14:26:27,045 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 14:26:27,046 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 14:26:27,046 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 14:26:27,047 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 14:26:27,047 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 14:26:27,048 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 14:26:27,049 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 14:26:27,050 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 14:26:27,050 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 14:26:27,051 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 14:26:27,053 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 14:26:27,054 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 14:26:27,057 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:26:29,411 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 14:26:29,411 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 14:26:29,412 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:26:29,412 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 14:26:29,413 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 14:26:29,414 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:26:29,415 - *************Employee Rest API************ -INFO -  The Response Time ==>430
+2020-06-15 14:26:29,415 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 14:26:29,415 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:26:29,416 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:26:29,417 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:26:29,417 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:26:29,417 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:26:29,418 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:26:29,418 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:26:29,419 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:26:29,419 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:26:29,420 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:28:22,202 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:28:24,624 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 14:28:24,625 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 14:28:24,631 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:28:24,631 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 14:28:24,632 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 14:28:24,635 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:28:24,635 - *************Employee Rest API************ -INFO -  The Response Time ==>1290
+2020-06-15 14:28:24,636 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 14:28:24,637 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:28:24,654 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 14:28:24,656 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:28:24,657 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:28:24,658 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:28:24,658 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:28:24,659 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:28:24,661 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:28:24,662 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:28:24,662 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:28:24,664 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:28:24,669 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 14:28:25,728 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:28:25,729 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 14:28:25,730 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:28:25,731 - *************Employee Rest API************ -INFO -  The Response Time ==>1052
+2020-06-15 14:28:25,731 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 14:28:25,732 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:28:25,737 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:28:25,738 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:28:25,739 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:28:25,739 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 14:28:25,741 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:28:25,741 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 14:28:25,742 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:28:25,743 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:28:25,744 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 14:28:25,747 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 14:28:29,802 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 14:28:29,804 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 14:28:29,804 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:28:29,805 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 14:28:29,806 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 14:28:29,806 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 14:28:29,807 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:28:29,807 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 14:28:29,808 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:28:29,808 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 14:28:29,809 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 14:28:29,810 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 14:28:29,812 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 14:28:40,008 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 14:28:40,009 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 14:28:40,010 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 14:28:40,027 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 14:28:40,028 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 14:28:40,029 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 14:28:40,029 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 14:28:40,031 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 14:28:40,031 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 14:28:40,032 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 14:28:40,034 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 14:28:40,035 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 14:28:40,039 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:28:42,041 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 14:28:42,042 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 14:28:42,042 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:28:42,043 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 14:28:42,043 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 14:28:42,044 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:28:42,044 - *************Employee Rest API************ -INFO -  The Response Time ==>430
+2020-06-15 14:28:42,045 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 14:28:42,045 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:28:42,046 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:28:42,046 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:28:42,047 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:28:42,047 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:28:42,048 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:28:42,048 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:28:42,049 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:28:42,049 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:28:42,050 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:51:23,604 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:51:26,005 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 14:51:26,006 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 14:51:26,013 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:51:26,013 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 14:51:26,013 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 14:51:26,015 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:51:26,016 - *************Employee Rest API************ -INFO -  The Response Time ==>1590
+2020-06-15 14:51:26,017 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 14:51:26,018 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:51:26,034 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 14:51:26,082 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:51:26,082 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:51:26,083 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:51:26,083 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:51:26,084 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:51:26,085 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:51:26,086 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:51:26,086 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:51:26,087 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:51:26,091 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 14:51:27,139 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:51:27,140 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 14:51:27,141 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:51:27,142 - *************Employee Rest API************ -INFO -  The Response Time ==>1043
+2020-06-15 14:51:27,142 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 14:51:27,143 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:51:27,150 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:51:27,150 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:51:27,151 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:51:27,151 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 14:51:27,152 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:51:27,152 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 14:51:27,153 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:51:27,153 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:51:27,153 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 14:51:27,155 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 14:51:31,219 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 14:51:31,221 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 14:51:31,222 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:51:31,224 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 14:51:31,224 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 14:51:31,226 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 14:51:31,227 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:51:31,229 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 14:51:31,230 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:51:31,231 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 14:51:31,233 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 14:51:31,234 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 14:51:31,242 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 14:51:41,355 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 14:51:41,356 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 14:51:41,358 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 14:51:41,360 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 14:51:41,361 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 14:51:41,362 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 14:51:41,363 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 14:51:41,365 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 14:51:41,366 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 14:51:41,368 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 14:51:41,373 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 14:51:41,375 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 14:51:41,384 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:51:43,482 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 14:51:43,483 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 14:51:43,483 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:51:43,484 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 14:51:43,484 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 14:51:43,486 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:51:43,487 - *************Employee Rest API************ -INFO -  The Response Time ==>500
+2020-06-15 14:51:43,487 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 14:51:43,489 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:51:43,491 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:51:43,492 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:51:43,493 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:51:43,493 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:51:43,494 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:51:43,494 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:51:43,495 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:51:43,495 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:51:43,496 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:53:19,130 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:53:21,313 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 14:53:21,313 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 14:53:21,318 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:53:21,318 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 14:53:21,320 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 14:53:21,321 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:53:21,321 - *************Employee Rest API************ -INFO -  The Response Time ==>1378
+2020-06-15 14:53:21,321 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 14:53:21,322 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:53:21,379 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 14:53:21,381 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:53:21,381 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:53:21,382 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:53:21,382 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:53:21,383 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:53:21,384 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:53:21,384 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:53:21,385 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:53:21,385 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:53:21,391 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 14:53:22,589 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:53:22,590 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 14:53:22,593 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:53:22,594 - *************Employee Rest API************ -INFO -  The Response Time ==>1194
+2020-06-15 14:53:22,595 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 14:53:22,596 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:53:22,612 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:53:22,613 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:53:22,614 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:53:22,614 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 14:53:22,615 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:53:22,615 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 14:53:22,616 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:53:22,617 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:53:22,617 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 14:53:22,621 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 14:53:26,862 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 14:53:26,864 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 14:53:26,865 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:53:26,867 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 14:53:26,868 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 14:53:26,869 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 14:53:26,870 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:53:26,872 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 14:53:26,873 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:53:26,875 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 14:53:26,876 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 14:53:26,878 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 14:53:26,885 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 14:53:37,039 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 14:53:37,040 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 14:53:37,041 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 14:53:37,044 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 14:53:37,044 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 14:53:37,046 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 14:53:37,047 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 14:53:37,050 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 14:53:37,051 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 14:53:37,054 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 14:53:37,058 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 14:53:37,061 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 14:53:37,067 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 14:53:39,456 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 14:53:39,456 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 14:53:39,457 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 14:53:39,458 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 14:53:39,458 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 14:53:39,459 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 14:53:39,459 - *************Employee Rest API************ -INFO -  The Response Time ==>513
+2020-06-15 14:53:39,459 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 14:53:39,460 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 14:53:39,461 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 14:53:39,461 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 14:53:39,461 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 14:53:39,461 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 14:53:39,462 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 14:53:39,462 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 14:53:39,462 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 14:53:39,463 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 14:53:39,463 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:14:17,286 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:14:19,896 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 16:14:19,896 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 16:14:19,900 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:14:19,900 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 16:14:19,900 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 16:14:19,902 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:14:19,902 - *************Employee Rest API************ -INFO -  The Response Time ==>1732
+2020-06-15 16:14:19,903 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 16:14:19,904 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:14:19,916 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 16:14:19,917 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:14:19,918 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:14:19,918 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:14:19,919 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:14:19,920 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:14:19,921 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:14:19,921 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:14:19,921 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:14:19,922 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:14:19,925 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 16:14:21,114 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:14:21,115 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 16:14:21,120 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:14:21,121 - *************Employee Rest API************ -INFO -  The Response Time ==>1184
+2020-06-15 16:14:21,122 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 16:14:21,125 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:14:21,144 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:14:21,144 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:14:21,145 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:14:21,146 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 16:14:21,147 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:14:21,147 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 16:14:21,148 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:14:21,149 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:14:21,149 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 16:14:21,167 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 16:14:25,217 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 16:14:25,220 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 16:14:25,221 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:14:25,223 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 16:14:25,224 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 16:14:25,226 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 16:14:25,227 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:14:25,228 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 16:14:25,229 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:14:25,231 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 16:14:25,232 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 16:14:25,234 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 16:14:25,244 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 16:14:35,560 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 16:14:35,561 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 16:14:35,562 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 16:14:35,563 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 16:14:35,563 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 16:14:35,565 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 16:14:35,565 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 16:14:35,567 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 16:14:35,567 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 16:14:35,568 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 16:14:35,571 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 16:14:35,572 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 16:14:35,575 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:14:37,710 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 16:14:37,711 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 16:14:37,712 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:14:37,713 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 16:14:37,714 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 16:14:37,717 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:14:37,717 - *************Employee Rest API************ -INFO -  The Response Time ==>485
+2020-06-15 16:14:37,718 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 16:14:37,718 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:14:37,720 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:14:37,721 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:14:37,722 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:14:37,722 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:14:37,724 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:14:37,724 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:14:37,724 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:14:37,725 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:14:37,725 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:14:46,087 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:14:48,181 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 16:14:48,181 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 16:14:48,185 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:14:48,186 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 16:14:48,186 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 16:14:48,187 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:14:48,188 - *************Employee Rest API************ -INFO -  The Response Time ==>1298
+2020-06-15 16:14:48,188 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 16:14:48,188 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:14:48,202 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 16:14:48,204 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:14:48,205 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:14:48,206 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:14:48,206 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:14:48,207 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:14:48,208 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:14:48,209 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:14:48,209 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:14:48,210 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:14:48,215 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 16:14:49,600 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:14:49,601 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 16:14:49,604 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:14:49,605 - *************Employee Rest API************ -INFO -  The Response Time ==>1378
+2020-06-15 16:14:49,606 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 16:14:49,607 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:14:49,635 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:14:49,636 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:14:49,637 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:14:49,637 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 16:14:49,638 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:14:49,638 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 16:14:49,639 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:14:49,639 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:14:49,640 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 16:14:49,658 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 16:14:53,882 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 16:14:53,884 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 16:14:53,885 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:14:53,887 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 16:14:53,887 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 16:14:53,889 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 16:14:53,889 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:14:53,891 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 16:14:53,892 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:14:53,893 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 16:14:53,894 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 16:14:53,896 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 16:14:53,901 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 16:15:04,126 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 16:15:04,127 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 16:15:04,128 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 16:15:04,130 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 16:15:04,131 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 16:15:04,133 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 16:15:04,133 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 16:15:04,135 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 16:15:04,136 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 16:15:04,138 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 16:15:04,144 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 16:15:04,147 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 16:15:04,154 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:15:06,165 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 16:15:06,166 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 16:15:06,168 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:15:06,170 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 16:15:06,171 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 16:15:06,174 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:15:06,175 - *************Employee Rest API************ -INFO -  The Response Time ==>378
+2020-06-15 16:15:06,175 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 16:15:06,177 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:15:06,180 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:15:06,180 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:15:06,182 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:15:06,182 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:15:06,184 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:15:06,185 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:15:06,187 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:15:06,188 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:15:06,189 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:15:13,550 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:15:15,841 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 16:15:15,841 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 16:15:15,845 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:15:15,845 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 16:15:15,846 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 16:15:15,847 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:15:15,847 - *************Employee Rest API************ -INFO -  The Response Time ==>1491
+2020-06-15 16:15:15,848 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 16:15:15,848 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:15:15,893 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 16:15:15,894 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:15:15,895 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:15:15,895 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:15:15,895 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:15:15,896 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:15:15,896 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:15:15,897 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:15:15,897 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:15:15,897 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:15:15,901 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 16:15:17,361 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:15:17,362 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 16:15:17,364 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:15:17,365 - *************Employee Rest API************ -INFO -  The Response Time ==>1456
+2020-06-15 16:15:17,366 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 16:15:17,368 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:15:17,388 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:15:17,389 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:15:17,389 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:15:17,390 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 16:15:17,390 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:15:17,391 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 16:15:17,392 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:15:17,392 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:15:17,392 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 16:15:17,395 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 16:15:21,719 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 16:15:21,722 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 16:15:21,723 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:15:21,725 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 16:15:21,725 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 16:15:21,727 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 16:15:21,727 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:15:21,728 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 16:15:21,729 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:15:21,730 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 16:15:21,731 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 16:15:21,733 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 16:15:21,740 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 16:15:32,199 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 16:15:32,200 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 16:15:32,201 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 16:15:32,204 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 16:15:32,205 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 16:15:32,207 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 16:15:32,207 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 16:15:32,210 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 16:15:32,211 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 16:15:32,213 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 16:15:32,220 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 16:15:32,224 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 16:15:32,235 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:15:35,400 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 16:15:35,400 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 16:15:35,402 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:15:35,402 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 16:15:35,402 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 16:15:35,404 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:15:35,404 - *************Employee Rest API************ -INFO -  The Response Time ==>507
+2020-06-15 16:15:35,405 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 16:15:35,405 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:15:35,407 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:15:35,407 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:15:35,409 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:15:35,409 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:15:35,411 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:15:35,411 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:15:35,412 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:15:35,413 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:15:35,414 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:18:46,460 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:18:49,036 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 16:18:49,037 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 16:18:49,041 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:18:49,041 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 16:18:49,041 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 16:18:49,043 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:18:49,043 - *************Employee Rest API************ -INFO -  The Response Time ==>1778
+2020-06-15 16:18:49,043 - *************Employee Rest API************ -WARN - The Response Time is more than 2000
+2020-06-15 16:18:49,044 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:18:49,089 - *************Employee Rest API************ -INFO - The Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-15 16:18:49,091 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:18:49,091 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:18:49,091 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:18:49,091 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:18:49,092 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:18:49,092 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:18:49,093 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:18:49,093 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:18:49,094 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:18:49,097 - *************Employee Rest API************ -INFO - ************ Started TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 16:18:50,707 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:18:50,708 - *************Employee Rest API************ -INFO - The Content Encoding Type is 75
+2020-06-15 16:18:50,710 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:18:50,711 - *************Employee Rest API************ -INFO -  The Response Time ==>1605
+2020-06-15 16:18:50,712 - *************Employee Rest API************ -WARN - The Response Time is more than 3000
+2020-06-15 16:18:50,713 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:18:50,728 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:18:50,729 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:18:50,730 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:18:50,730 - *************Employee Rest API************ -INFO - The Status Code is ==>400
+2020-06-15 16:18:50,731 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:18:50,732 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-15 16:18:50,733 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:18:50,733 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:18:50,734 - *************Employee Rest API************ -INFO - ************ Finish TC002_Get_Single_EmployeedDetails ********************
+2020-06-15 16:18:50,738 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 16:18:55,014 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 16:18:55,017 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 16:18:55,018 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:18:55,019 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 16:18:55,020 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 16:18:55,021 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 16:18:55,022 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:18:55,023 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 16:18:55,024 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:18:55,025 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 16:18:55,026 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 16:18:55,028 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 16:18:55,034 - *************Employee Rest API************ -INFO - ****************** Starting TC003_Post_New_Employee  *************************
+2020-06-15 16:19:05,125 - *************Employee Rest API************ -INFO - ****************** check Content Encoding Typee *************************
+2020-06-15 16:19:05,126 - *************Employee Rest API************ -INFO - The Content Encoding Type is ==>gzip
+2020-06-15 16:19:05,126 - *************Employee Rest API************ -INFO - ****************** Check Content-Type *************************
+2020-06-15 16:19:05,127 - *************Employee Rest API************ -INFO - ****************** Check Content-Server Type *************************
+2020-06-15 16:19:05,127 - *************Employee Rest API************ -INFO - The Content Server Type is ==>nginx/1.16.0
+2020-06-15 16:19:05,128 - *************Employee Rest API************ -INFO - ****************** The Check Status  *************************
+2020-06-15 16:19:05,128 - *************Employee Rest API************ -INFO - The Status Code is ==>405
+2020-06-15 16:19:05,129 - *************Employee Rest API************ -INFO - ****************** Check Status Line  *************************
+2020-06-15 16:19:05,129 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 405 Method Not Allowed
+2020-06-15 16:19:05,129 - *************Employee Rest API************ -INFO - ****************** The Response Body *************************
+2020-06-15 16:19:05,131 - *************Employee Rest API************ -INFO - The Response body Validation is 
+2020-06-15 16:19:05,132 - *************Employee Rest API************ -INFO - ****************** Finish - TC003_Post_New_Employee  *************************
+2020-06-15 16:19:05,134 - *************Employee Rest API************ -INFO - ************ Started TC001_Get_All_Employees Test Case Started ********************
+2020-06-15 16:19:07,569 - *************Employee Rest API************ -INFO - ************Checking  Content Encoding Type  ********************
+2020-06-15 16:19:07,570 - *************Employee Rest API************ -INFO - The Content Encoding Type is gzip
+2020-06-15 16:19:07,571 - *************Employee Rest API************ -INFO - ************Checking  Content Length  ********************
+2020-06-15 16:19:07,571 - *************Employee Rest API************ -INFO - The Content Encoding Type is 595
+2020-06-15 16:19:07,571 - *************Employee Rest API************ -WARN - The Content Lenght is less than 100
+2020-06-15 16:19:07,573 - *************Employee Rest API************ -INFO - ************Checking Response Time ********************
+2020-06-15 16:19:07,573 - *************Employee Rest API************ -INFO -  The Response Time ==>589
+2020-06-15 16:19:07,573 - *************Employee Rest API************ -WARN - The Response Time is more than 6000
+2020-06-15 16:19:07,574 - *************Employee Rest API************ -INFO - *************Checking Response Body of Request ********************
+2020-06-15 16:19:07,575 - *************Employee Rest API************ -INFO - ************Checking  Server Type  ********************
+2020-06-15 16:19:07,576 - *************Employee Rest API************ -INFO - The Server Type is==>nginx/1.16.0
+2020-06-15 16:19:07,576 - *************Employee Rest API************ -INFO - ************Checking Status Code ********************
+2020-06-15 16:19:07,577 - *************Employee Rest API************ -INFO - The Status Code is ==>200
+2020-06-15 16:19:07,578 - *************Employee Rest API************ -INFO - ************Checking Status Line ********************
+2020-06-15 16:19:07,578 - *************Employee Rest API************ -INFO - The Status Line is ==>HTTP/1.1 200 OK
+2020-06-15 16:19:07,578 - *************Employee Rest API************ -INFO - ************Checking Content Type ********************
+2020-06-15 16:19:07,578 - *************Employee Rest API************ -INFO - The Content Type is ==>application/json;charset=utf-8
+2020-06-15 16:19:07,579 - *************Employee Rest API************ -INFO - ************ Finish TC001_Get_All_Employees Test Case Started ********************

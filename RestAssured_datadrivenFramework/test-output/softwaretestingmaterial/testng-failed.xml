@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [softwaretestingmaterial]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="testngTest(failed)">
+    <classes>
+      <class name="com.restapi_TestCases.TC002_Get_Single_EmployeedDetails">
+        <methods>
+          <include name="getEmplpoyeeData"/>
+          <include name="checkStatusCode"/>
+          <include name="tearDown"/>
+          <include name="checkResponseBody"/>
+          <include name="SetUp"/>
+          <include name="checkStatusLine"/>
+        </methods>
+      </class> <!-- com.restapi_TestCases.TC002_Get_Single_EmployeedDetails -->
+      <class name="com.restapi_TestCases.TC004_update_Existing_EmployeeRecord">
+        <methods>
+          <include name="checkContentType"/>
+          <include name="postRequestValidation"/>
+          <include name="tearDown"/>
+          <include name="SetUp"/>
+          <include name="postNewEmployee"/>
+          <include name="checkStatusCode"/>
+        </methods>
+      </class> <!-- com.restapi_TestCases.TC004_update_Existing_EmployeeRecord -->
+      <class name="com.restapi_TestCases.TC005_Delete_EmployeeRecord">
+        <methods>
+          <include name="tearDown"/>
+          <include name="getAllEmployeeDetails"/>
+          <include name="SetUp"/>
+          <include name="checkResponseBody"/>
+        </methods>
+      </class> <!-- com.restapi_TestCases.TC005_Delete_EmployeeRecord -->
+      <class name="com.restapi_TestCases.TC003_Post_New_Employee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="postNewEmployee"/>
+          <include name="SetUp"/>
+          <include name="checkContentEncodingType"/>
+        </methods>
+      </class> <!-- com.restapi_TestCases.TC003_Post_New_Employee -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [softwaretestingmaterial] -->

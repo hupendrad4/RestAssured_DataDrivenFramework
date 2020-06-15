@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="softwaretestingmaterial">
+	<test name="testngTest">
+		<classes>
+			<class name="com.restapi_TestCases.TC001_Get_All_Employees"/>
+			<class name="com.restapi_TestCases.TC002_Get_Single_EmployeedDetails"/>
+			<class name="com.restapi_TestCases.TC003_Post_New_Employee"/>
+			<class name="com.restapi_TestCases.TC004_update_Existing_EmployeeRecord"/>
+			<class name="com.restapi_TestCases.TC005_Delete_EmployeeRecord"/>
+		</classes>
+	</test>
+</suite>
